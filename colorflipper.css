@@ -1,0 +1,29 @@
+button{
+    width: 100px;
+    height: 40px;
+    border-radius: 15px;
+    margin: 15px;
+}
+
+#red{
+    background-color: red;
+    font-size: 1rem;
+    font-weight: bolder;
+}
+
+#blue{
+    background-color: blue;
+    font-size: 1rem;
+    font-weight: bolder;
+}
+
+#green{
+    background-color: green;
+    font-size: 1rem;
+    font-weight: bolder;
+}
+
+#random{
+    font-size: 1rem;
+    font-weight: bolder;
+}
